@@ -1,6 +1,6 @@
 cask "pinwire" do
   version "1.0.0"
-  sha256 "53e052a48cd36dff4a44c522ba864781797924a2c63078e727ff6449c79344cf"
+  sha256 "9e8ab1e4e0493526d169c75f2c07648ebb9d3fbf9a5c63ef4e73fc26eeb1a570"
 
   url "https://github.com/GausPeerzade/pinwire/releases/download/v#{version}/Pinwire-#{version}.dmg"
   name "Pinwire"
